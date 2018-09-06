@@ -1,0 +1,446 @@
+{
+    "计算机网络及其应用": [
+        {
+            "name": "曹玖新",
+            "linkage": "cse.seu.edu.cn/PersonalPage/jx.cao/index.htm"
+        },
+        {
+            "name": "程光",
+            "linkage": "cse.seu.edu.cn/PersonalPage/gcheng/index.htm"
+        },
+        {
+            "name": "单冯",
+            "linkage": "cse.seu.edu.cn/PersonalPage/shanfeng/index.htm"
+        },
+        {
+            "name": "丁伟",
+            "linkage": "cse.seu.edu.cn/PersonalPage/wding/index.htm"
+        },
+        {
+            "name": "东方",
+            "linkage": "cse.seu.edu.cn/PersonalPage/dongfang/index.htm"
+        },
+        {
+            "name": "董恺",
+            "linkage": "cse.seu.edu.cn/PersonalPage/dk/index.htm"
+        },
+        {
+            "name": "董永强",
+            "linkage": "cse.seu.edu.cn/PersonalPage/dongyq/index.htm"
+        },
+        {
+            "name": "方效林",
+            "linkage": "cse.seu.edu.cn/PersonalPage/xiaolin/index.htm"
+        },
+        {
+            "name": "龚俭",
+            "linkage": "cse.seu.edu.cn/PersonalPage/jgong/index.htm"
+        },
+        {
+            "name": "胡晓艳",
+            "linkage": "cse.seu.edu.cn/PersonalPage/xyhu/index.htm"
+        },
+        {
+            "name": "金嘉晖",
+            "linkage": "cse.seu.edu.cn/PersonalPage/jhjin/index.html"
+        },
+        {
+            "name": "李传佑",
+            "linkage": "cse.seu.edu.cn/Error/NoneError.htm"
+        },
+        {
+            "name": "李凯",
+            "linkage": "cse.seu.edu.cn/PersonalPage/kaili/index.htm"
+        },
+        {
+            "name": "李伟",
+            "linkage": "cse.seu.edu.cn/PersonalPage/xchlw/index.htm"
+        },
+        {
+            "name": "李幼平(院士)",
+            "linkage": "cse.seu.edu.cn/PersonalPage/youpingli/index.htm"
+        },
+        {
+            "name": "凌振",
+            "linkage": "cse.seu.edu.cn/PersonalPage/zhenling/index.htm"
+        },
+        {
+            "name": "刘波",
+            "linkage": "cse.seu.edu.cn/PersonalPage/bliu/index.htm"
+        },
+        {
+            "name": "罗军舟",
+            "linkage": "cse.seu.edu.cn/PersonalPage/jluo/index.htm"
+        },
+        {
+            "name": "沈典",
+            "linkage": "cse.seu.edu.cn/Error/NoneError.htm"
+        },
+        {
+            "name": "沈军",
+            "linkage": "cse.seu.edu.cn/PersonalPage/junshen/index.htm"
+        },
+        {
+            "name": "沈卓炜",
+            "linkage": "cse.seu.edu.cn/PersonalPage/zwshen/index.htm"
+        },
+        {
+            "name": "宋爱波",
+            "linkage": "cse.seu.edu.cn/PersonalPage/absong/index.htm"
+        },
+        {
+            "name": "陶军",
+            "linkage": "cse.seu.edu.cn/PersonalPage/juntao/index.htm"
+        },
+        {
+            "name": "宛斌",
+            "linkage": "cse.seu.edu.cn/PersonalPage/wbwmwb/index.htm"
+        },
+        {
+            "name": "汪芸",
+            "linkage": "cse.seu.edu.cn/PersonalPage/yunwang/index.htm"
+        },
+        {
+            "name": "王萃寒",
+            "linkage": "cse.seu.edu.cn/PersonalPage/conchwang/index.htm"
+        },
+        {
+            "name": "吴国新",
+            "linkage": "cse.seu.edu.cn/PersonalPage/gwu/index.htm"
+        },
+        {
+            "name": "吴桦",
+            "linkage": "cse.seu.edu.cn/PersonalPage/hwu/index.htm"
+        },
+        {
+            "name": "吴剑章",
+            "linkage": "cse.seu.edu.cn/PersonalPage/jzwu/index.htm"
+        },
+        {
+            "name": "吴巍炜",
+            "linkage": "cse.seu.edu.cn/PersonalPage/weiweiwu/index.htm"
+        },
+        {
+            "name": "吴文甲",
+            "linkage": "cse.seu.edu.cn/PersonalPage/wjwu/index.htm"
+        },
+        {
+            "name": "肖卿俊",
+            "linkage": "cse.seu.edu.cn/PersonalPage/csqjxiao/index.htm"
+        },
+        {
+            "name": "熊润群",
+            "linkage": "cse.seu.edu.cn/PersonalPage/rxiong/index.html"
+        },
+        {
+            "name": "杨明",
+            "linkage": "cse.seu.edu.cn/PersonalPage/yangming2002/index.htm"
+        },
+        {
+            "name": "杨鹏",
+            "linkage": "cse.seu.edu.cn/PersonalPage/pengyang/index.htm"
+        },
+        {
+            "name": "杨绍富",
+            "linkage": "cse.seu.edu.cn/PersonalPage/ysf/index.htm"
+        },
+        {
+            "name": "杨望",
+            "linkage": "cse.seu.edu.cn/PersonalPage/wyang/index.htm"
+        },
+        {
+            "name": "张竞慧",
+            "linkage": "cse.seu.edu.cn/PersonalPage/zjh/index.htm"
+        },
+        {
+            "name": "张三峰",
+            "linkage": "cse.seu.edu.cn/PersonalPage/sfzhang/index.htm"
+        },
+        {
+            "name": "张宇",
+            "linkage": "cse.seu.edu.cn/PersonalPage/zhangyu/index.htm"
+        },
+        {
+            "name": "周玲",
+            "linkage": "cse.seu.edu.cn/PersonalPage/zhouling/index.htm"
+        },
+        {
+            "name": "周一峰",
+            "linkage": "cse.seu.edu.cn/PersonalPage/zhouyifeng/index.html"
+        }
+    ],
+    "数据库和信息系统": [
+        {
+            "name": "崇志宏",
+            "linkage": "cse.seu.edu.cn/PersonalPage/zhchong/index.htm"
+        },
+        {
+            "name": "何洁月",
+            "linkage": "cse.seu.edu.cn/PersonalPage/jieyuehe/index.htm"
+        },
+        {
+            "name": "姜浩",
+            "linkage": "cse.seu.edu.cn/PersonalPage/hjiang/index.htm"
+        },
+        {
+            "name": "李小平",
+            "linkage": "cse.seu.edu.cnhttp://www.scholat.com/xpli.cn"
+        },
+        {
+            "name": "吕建华",
+            "linkage": "cse.seu.edu.cn/PersonalPage/lujianhua/index.htm"
+        },
+        {
+            "name": "倪巍伟",
+            "linkage": "cse.seu.edu.cn/PersonalPage/wni/index.htm"
+        },
+        {
+            "name": "王伟",
+            "linkage": "cse.seu.edu.cn/PersonalPage/ww11/index.htm"
+        },
+        {
+            "name": "徐立臻",
+            "linkage": "cse.seu.edu.cn/PersonalPage/lzxu/index.htm"
+        },
+        {
+            "name": "张柏礼",
+            "linkage": "cse.seu.edu.cn/PersonalPage/bailey_zhang/index.htm"
+        },
+        {
+            "name": "朱夏",
+            "linkage": "cse.seu.edu.cn/PersonalPage/zhuxia/index.htm"
+        }
+    ],
+    "人工智能及其应用": [
+        {
+            "name": "高志强",
+            "linkage": "cse.seu.edu.cn/PersonalPage/zqgao/index.htm"
+        },
+        {
+            "name": "耿新",
+            "linkage": "cse.seu.edu.cn/PersonalPage/xgeng/index.htm"
+        },
+        {
+            "name": "蒋嶷川",
+            "linkage": "cse.seu.edu.cn/PersonalPage/ycjiang/index.htm"
+        },
+        {
+            "name": "赖大荣",
+            "linkage": "cse.seu.edu.cn/PersonalPage/DarongLai/index.htm"
+        },
+        {
+            "name": "李微",
+            "linkage": "cse.seu.edu.cn/PersonalPage/liwei/index.htm"
+        },
+        {
+            "name": "刘肖凡",
+            "linkage": "cse.seu.edu.cn/PersonalPage/xfliu/"
+        },
+        {
+            "name": "刘胥影",
+            "linkage": "cse.seu.edu.cn/PersonalPage/xyliu/index.htm"
+        },
+        {
+            "name": "倪庆剑",
+            "linkage": "cse.seu.edu.cn/PersonalPage/nqj"
+        },
+        {
+            "name": "漆桂林",
+            "linkage": "cse.seu.edu.cn/PersonalPage/qgl/index.htm"
+        },
+        {
+            "name": "汪鹏",
+            "linkage": "cse.seu.edu.cn/PersonalPage/pwang/index.htm"
+        },
+        {
+            "name": "王万元",
+            "linkage": "cse.seu.edu.cn/PersonalPage/wangwanyuan/index.htm"
+        },
+        {
+            "name": "薛晖",
+            "linkage": "cse.seu.edu.cn/PersonalPage/hxue/index.htm"
+        },
+        {
+            "name": "姚莉",
+            "linkage": "cse.seu.edu.cn/PersonalPage/yaoli/index.htm"
+        },
+        {
+            "name": "翟玉庆",
+            "linkage": "cse.seu.edu.cn/PersonalPage/yqzhai/index.htm"
+        },
+        {
+            "name": "张敏灵",
+            "linkage": "cse.seu.edu.cn/PersonalPage/zhangml/index.htm"
+        },
+        {
+            "name": "张祥",
+            "linkage": "cse.seu.edu.cn/PersonalPage/x.zhang/index.htm"
+        },
+        {
+            "name": "张志政",
+            "linkage": "cse.seu.edu.cn/PersonalPage/seu_zzz/index.htm"
+        },
+        {
+            "name": "周德宇",
+            "linkage": "cse.seu.edu.cn/PersonalPage/zhoudeyu/index.htm"
+        }
+    ],
+    "软件工程与计算机理论": [
+        {
+            "name": "陈汉武",
+            "linkage": "cse.seu.edu.cn/PersonalPage/hw_chen/index.htm"
+        },
+        {
+            "name": "李必信",
+            "linkage": "cse.seu.edu.cn/PersonalPage/bx.li/index.htm"
+        },
+        {
+            "name": "李慧颖",
+            "linkage": "cse.seu.edu.cn/PersonalPage/huiyingli/index.htm"
+        },
+        {
+            "name": "廖力",
+            "linkage": "cse.seu.edu.cn/PersonalPage/liaoli/index.htm"
+        },
+        {
+            "name": "刘志昊",
+            "linkage": "cse.seu.edu.cn/PersonalPage/liuzhtopic/index.htm"
+        },
+        {
+            "name": "马准中",
+            "linkage": "cse.seu.edu.cn/PersonalPage/mazhunzhong/index.htm"
+        },
+        {
+            "name": "倪健",
+            "linkage": "cse.seu.edu.cn/PersonalPage/jianni/index.htm"
+        },
+        {
+            "name": "戚晓芳",
+            "linkage": "cse.seu.edu.cn/PersonalPage/xfqi/index.htm"
+        },
+        {
+            "name": "王红兵",
+            "linkage": "cse.seu.edu.cn/PersonalPage/hbw/index.htm"
+        },
+        {
+            "name": "王璐璐",
+            "linkage": "cse.seu.edu.cn/PersonalPage/wanglulu/index.htm"
+        },
+        {
+            "name": "王岩冰",
+            "linkage": "cse.seu.edu.cn/PersonalPage/ybwang/index.htm"
+        },
+        {
+            "name": "吴含前",
+            "linkage": "cse.seu.edu.cn/PersonalPage/hanqianwu/index.htm"
+        },
+        {
+            "name": "仲新宇",
+            "linkage": "cse.seu.edu.cn/PersonalPage/xyzhong/index.htm"
+        },
+        {
+            "name": "周晓宇",
+            "linkage": "cse.seu.edu.cn/PersonalPage/zhouxy/index.htm"
+        },
+        {
+            "name": "周颖",
+            "linkage": "cse.seu.edu.cn/PersonalPage/zy/index.htm"
+        }
+    ],
+    "计算机系统结构": [
+        {
+            "name": "任国林",
+            "linkage": "cse.seu.edu.cn/PersonalPage/renguolin/index.htm"
+        },
+        {
+            "name": "吴强",
+            "linkage": "cse.seu.edu.cn/PersonalPage/wq/index.htm"
+        },
+        {
+            "name": "徐造林",
+            "linkage": "cse.seu.edu.cn/PersonalPage/zlxu62/index.htm"
+        },
+        {
+            "name": "杨全胜",
+            "linkage": "cse.seu.edu.cn/PersonalPage/yangqs/index.htm"
+        }
+    ],
+    "图像处理与科学可视化": [
+        {
+            "name": "鲍旭东",
+            "linkage": "cse.seu.edu.cn/PersonalPage/bao.list/index.htm"
+        },
+        {
+            "name": "陈阳",
+            "linkage": "cse.seu.edu.cn/PersonalPage/chenyang20021979/index.htm"
+        },
+        {
+            "name": "董晓",
+            "linkage": "cse.seu.edu.cn/PersonalPage/dongxiao/index.htm"
+        },
+        {
+            "name": "胡轶宁",
+            "linkage": "cse.seu.edu.cn/PersonalPage/hyn.list/index.htm"
+        },
+        {
+            "name": "姜龙玉",
+            "linkage": "cse.seu.edu.cn/PersonalPage/jianglongyu/index.htm"
+        },
+        {
+            "name": "孔佑勇",
+            "linkage": "cse.seu.edu.cn/PersonalPage/kongyouyong/index.htm"
+        },
+        {
+            "name": "李松毅",
+            "linkage": "cse.seu.edu.cn/PersonalPage/lsy.list/index.htm"
+        },
+        {
+            "name": "罗立民",
+            "linkage": "cse.seu.edu.cn/PersonalPage/luo.list/index.htm"
+        },
+        {
+            "name": "沈傲东",
+            "linkage": "cse.seu.edu.cn/People/shenaodong/index.htm"
+        },
+        {
+            "name": "舒华忠",
+            "linkage": "cse.seu.edu.cn/PersonalPage/shu.list/index.htm"
+        },
+        {
+            "name": "唐慧",
+            "linkage": "cse.seu.edu.cn/PersonalPage/corinna/index.htm"
+        },
+        {
+            "name": "王世杰",
+            "linkage": "cse.seu.edu.cn/PersonalPage/mike/index.htm"
+        },
+        {
+            "name": "王征",
+            "linkage": "cse.seu.edu.cn/PersonalPage/fikiseu/index.htm"
+        },
+        {
+            "name": "伍家松",
+            "linkage": "cse.seu.edu.cn/PersonalPage/jswu/index.htm"
+        },
+        {
+            "name": "杨淳沨",
+            "linkage": "cse.seu.edu.cn/PersonalPage/chunfeng.yang/index.htm"
+        },
+        {
+            "name": "杨冠羽",
+            "linkage": "cse.seu.edu.cn/PersonalPage/gyyang1980/index.htm"
+        },
+        {
+            "name": "於文雪",
+            "linkage": "cse.seu.edu.cn/PersonalPage/ywx.list/index.htm"
+        },
+        {
+            "name": "章品正",
+            "linkage": "cse.seu.edu.cn/PersonalPage/luckzpz/index.htm"
+        },
+        {
+            "name": "周卫平",
+            "linkage": "cse.seu.edu.cn/PersonalPage/zhouweipingcn/index.htm"
+        }
+    ]
+}
