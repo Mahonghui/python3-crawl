@@ -7,8 +7,8 @@
 
 import json
 import os
-
-
+from scrapy.conf import  settings
+from pymongo import MongoClient
 
 class Douban250Pipeline(object):
 
@@ -18,12 +18,31 @@ class Douban250Pipeline(object):
 
     def process_item(self, item, spider):
 
-        json_text = json.dumps(dict(item), ensure_ascii=False) + ',\n'
-        self.file.write(json_text)
+        method = settings['EXPORT_METHOD']
 
-        # also works
-        # json.dump(dict(item), self.file, ensure_ascii=False)
+        if method == 'mongodb':
+            host = settings['MONGO_HOST']
+            port = settings['MONGO_PORT']
+            db_name = settings['MONGO_DB']
+            doc_name = settings['MONGO_DOC']
+
+            con = MongoClient(host, port)
+            db = con[db_name]
+            doc = db[doc_name]
+
+            dic_item = dict(item)
+            doc.insert(dic_item)
+
+
+        ### 将数据导出json文件
+        # json_text = json.dumps(dict(item), ensure_ascii=False) + ',\n'
+        # self.file.write(json_text)
+        #
+        # # also works
+        # # json.dump(dict(item), self.file, ensure_ascii=False)
         return item
+
+
 
     def spider_closed(self, spider):
         self.file.close()

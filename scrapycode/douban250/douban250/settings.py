@@ -89,5 +89,8 @@ ITEM_PIPELINES = {
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
-FEED_URL = '~/Desktop/douban250.csv'
-FEED_FORMAT = 'CSV'
+EXPORT_METHOD = 'mongodb'
+MONGO_HOST = '127.0.0.1'
+MONGO_PORT = 27017
+MONGO_DB = 'douban'
+MONGO_DOC = 'Movie'
