@@ -33,7 +33,7 @@ class DoubanBooksPipeline(object):
 
     def process_item(self, item, spider):
         book_name = item['name']
-        file_name = self.img_dir + book_name + '.jpg'
+        file_name = self.img_dir + item['cover_url'].split('/')[-1]
 
         header = {'User-Agent': settings['User-Agent']}
         r = requests.get(item['cover_url'], headers = header)

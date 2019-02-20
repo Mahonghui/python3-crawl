@@ -6,7 +6,6 @@ import os
 import time
 import csv
 
-
 def start_chorme():
 	driver = webdriver.Chrome(executable_path='./chromedriver')
 	driver.start_client()
@@ -19,14 +18,14 @@ def login(base_url,driver):
 		driver.get(base_url)
 		account_sel = '#form_email'
 		pwd_sel = '#form_password'
-
+		time.sleep(3)
 		acc = driver.find_element_by_css_selector(account_sel)
 		pwd = driver.find_element_by_css_selector(pwd_sel)
 
 		acc.clear()
-		acc.send_keys('your_account')
+		acc.send_keys('18752782893')
 		pwd.clear()
-		pwd.send_keys('password')
+		pwd.send_keys('mhh15151132122')
 
 		chk = driver.find_element_by_css_selector('#form_remember')
 		chk.click()
@@ -55,9 +54,11 @@ def get_info(info_list, driver):
 			continue
 		user = card.find_elements_by_xpath('.//div[@class="text"]/a[@class="lnk-people"]')[0].text
 
-		quote = card.find_elements_by_xpath('.//blockquote[@class="clamp4"]/p')
+		quote = card.find_elements_by_xpath('.//blockquote[@class="quote-clamp"]/p')
 		if quote:
 			quote_str = quote[0].text
+		else:
+			continue
 
 		create_time = card.find_elements_by_xpath('.//span[@class="created_at"]')
 		ct = create_time[0].get_attribute('title').split(' ')[0]
@@ -78,7 +79,7 @@ def get_next(driver):
 def save_csv(info_list):
 	header = ['用户', '内容', '点赞数', '发布时间']
 	sorted_list = sorted(info_list, key=lambda x: x[2], reverse=True)
-	full_path = __file__.split('.')[0]
+	full_path = __file__.split('.')[0]	
 	full_path += '.csv'
 	if os.path.exists(full_path):
 		os.system('rm ' + full_path)
@@ -96,19 +97,18 @@ def main():
 
 	base_url = 'https://www.douban.com/'
 	driver = start_chorme()
-	for i in range(2):
-		print(u'第' + str(i+1) + '次登录\n' + '#'*25)
-		info_list = []
-		login(base_url,driver)
-		time.sleep(5) # wait for verifying
 
-		for j in range(3): # crawl 3 pages
-			get_info(info_list, driver)
-			next_page = get_next(driver)
-			driver.get(next_page)
+	info_list = []
+	login(base_url,driver)
+	time.sleep(5) # wait for verifying
 
-		save_csv(info_list)
-		time.sleep(10)
+	for j in range(3): # hard code:crawl 3 pages 
+		get_info(info_list, driver)
+		next_page = get_next(driver)
+		driver.get(next_page)
+
+	save_csv(info_list)
+	time.sleep(7)
 
 	driver.quit()
 

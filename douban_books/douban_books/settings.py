@@ -92,4 +92,4 @@ ITEM_PIPELINES = {
 MONGO_HOST = '127.0.0.1'
 MONGO_DB = 'douban'
 MONGO_DOC = 'new_book'
-IMG_DIR = './covers/'
+IMG_DIR = '/Users/mahonghui/Desktop/PythonCrawl/douban_books/covers/'
